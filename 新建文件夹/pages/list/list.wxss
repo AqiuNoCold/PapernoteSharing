@@ -1,0 +1,21 @@
+/* pages/list/list.wxss */
+.container1 view{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.container1 view:nth-child(1){
+    background-color: lightgreen;
+}
+.container1 view:nth-child(2){
+    background-color: rgb(21, 143, 219);
+}
+.container1 view:nth-child(3){
+    background-color: lightpink;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+}

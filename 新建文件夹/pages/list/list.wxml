@@ -1,0 +1,6 @@
+<!--pages/list/list.wxml-->
+<view class="container1">
+ <view>笔记一</view>
+ <view>笔记二</view>
+ <view>笔记三</view>
+</view>
